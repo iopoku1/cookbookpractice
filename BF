@@ -1,0 +1,89 @@
+{
+"dish": "Kpokponsu",
+ "category": "breakfast",
+ "people": "For 4 people",
+ "ingredients": ["1 cup corn dough", "2 pt. water", "Salt cmd Sugar to taste", "1/2 cup crushed groundnuts", "Milk (optional)"],
+ "method": ["Mix corn dough with 1/2 of the water.", "Boil rest of water and add to mixture, stirring to avoid lumps.", "Place on the fire and stir for about 25 minutes.", "Add sugar and crushed groundnuts.", "Serve with milk."],
+ "notes":[]
+},
+{
+"dish": "Oblayo (Dried corn porridge)",
+ "category": "breakfast",
+ "people": "For 4 people",
+ "ingredients": ["2 cups corn", "2-3pt. water", "Salt and sugar to taste"],
+ "method": ["Put corn into a mortar, sprinkle with cold water, and pound to remove the outer skin.", "Pound again to break the corn into pieces.", "Soak in water overnight.", "Drain off the water.", "Add 3 pt. fresh water and salt to corn and boil until cooked (2 hours).", "Serve with sugar and milk if desired."],
+ "notes":[]
+},
+{
+"dish": "Ekuegbemi (Cream of corn grit)",
+ "category": "breakfast",
+ "people": "For 4 people",
+ "ingredients": ["1 cup grit (cornmeal) or yellow cornmeal", "1/2 cup ground rice", "3 cups water", "1 tbs. lard (optional)", "Sugar to taste (optional), Milk"],
+ "method": ["Mix cornmeal, ground rice and two cups of the water.", "Boil rest the water and add, stirring all the time.", "Place on the fire; continue stirring to avoid lumps.", "When almost cooked, add lard.", "Serve hot with milk and sugar."],
+ "notes":[]
+},
+{
+"dish": "Ɔmo Koko (Rice water)",
+ "category": "breakfast",
+ "people": "For 4 people",
+ "ingredients": ["1 cup rice", "4 cups water", "Salt and sugar to taste", "Milk"],
+ "method": ["Pick out all stones and husks from rice.", "Wash well.", "Soak overnight.", "Put the 4 cups of water in a pot and bring to the boil.", "Add salt.", "Add rice and boil fast for about 10 minutes.", "Lower fire and cook gently until rice is tender and the liquid is slightly thickened.", "Serve with milk and sugar for breakfast."],
+ "notes":[]
+},
+{
+"dish": "Olɔ (Ripe plantain and corn porridge)",
+ "category": "breakfast",
+ "people": "For 4 people",
+ "ingredients": ["3 over-ripe plantains", "2 pt. water", "1 cup fermented corn dough", "Salt and pepper to taste"],
+ "method": ["Peel plantains and put into pot.", "Add 1 pt. water and salt, boil till very soft and then mash in pot.", "Mix corn dough with rest of water, strain and add liquid to mashed plantain.", "Add pepper and salt to taste.", "Boil till porridge is thick and free from lumps.", "Serve hot."],
+ "notes":[]
+},
+{
+"dish": "Atomo kpɔtɔnkpɔtɔ or Mpɔtɔmpɔtɔ (Sweet potato stew)",
+ "category": "breakfast",
+ "people": "For 4 people",
+ "ingredients": ["2 Ib. sweet potatoes", "3 pt. water", "3 oz. margarine or palm oil", "Salt", "1/2 Ib. salted beef or scraps of bacon"],
+ "method": ["Wash and peel sweet potatoes.", "Cut into small cubes and put into saucepan with the water.", "Place on the fire.", "Add salt and beef or scraps of bacon.", "Cook till sweet potatoes and beef are both tender.", "Mash as much sweet potato into stew as possible.", "Add margarine or palm oil.", "Serve hot."],
+ "notes":[]
+},
+{
+"dish": "Maasa (Millet fritters)",
+ "category": "breakfast",
+ "people": "For 2 people",
+ "ingredients": ["4 cups millet", "1 medium-sized onion", "Salt and pepper to taste", "Cooking oil", "Water"],
+ "method": ["Wet the millet and pound lightly to remove husks.", "Add water and skin off husks.", "Strain and keep water.", "Divide millet into two.", "Add enough strained water to one-half of millet and boil until it thickens like porridge.", "Pound the other half of millet and sift.", "Add sifted millet to the cooked millet porridge.", "Add a little of the strained water and mix.", "Leave overnight to ferment.", "Add ground onion, salt and pepper to the batter.", "Fry in spoonfuls in a frying pan."],
+ "notes":[]
+},
+{
+"dish": "Abɔbɔi (Stewed bambara beans)",
+ "category": "breakfast",
+ "people": "For 4 people",
+ "ingredients": ["2 cups bambara beans", "2 tomatoes", "1 small onion", "Salt and pepper to taste", "Water", "Sugar (optional)"],
+ "method": ["Pick and soak beans overnight.", "Wash beans next morning, add water and set on fire.", "Add ground pepper, tomatoes and chopped onion and cook till beans are very tender.", "Add salt.", "Mash half of beans and return to stew.", "Add sugar if desired and serve with krakro, tatale or tetare."],
+ "notes":[]
+},
+{
+"dish": "Tatale Oyɛmkpɛbɛ (Ripe plantain pancakes with ground rice, corn dough or flour)",
+ "category": "breakfast",
+ "people": "For 4 people",
+ "ingredients": ["6 over-ripe plantains", "1 cup ground rice, or flour or corn dough", "1/2 cup of water", "3 onions (small)", "Salt and pepper to taste", "1 cup palm oil for frying"],
+ "method": ["Wash and peel the plantains.", "Pound until free from lumps.", "Put plantain into a bowl and add the ground rice or corn dough or flour.", "Grind the onions and pepper together.", "Add to mixture and season to taste.", "Add a little of the palm-oil to mixture.", "Add the water and mix wdl.", "Allow to stand for about half an hour.", "Fry in spoonfuls in a shallow pan with little hot oil at a time."],
+ "notes":["This can be served hot with Abɔbɔi."]
+},
+{
+"dish": "Koose or Akla (Bean cakes)",
+ "category": "breakfast",
+ "people": "For 4 people",
+ "ingredients": ["2 cups cowpeas", "1 egg (beaten)", "Pepper and salt to taste", "1 medium-sized onion", "2 cups groundnut oil", "1/2 cup water"],
+ "method": ["Soak the cowpeas overnight.", "Remove the skin and eyes of the cowpeas.", "Wash, strain the cowpeas thoroughly and grind.", "Grind the pepper and onion.", "Put the ground cowpeas into a large bowl, mix with water and beat to allow air in.", "Add the pepper, onion and the beaten egg.", "Season to taste.", "Put the groundnut oil into a saucepan and heat until very hot.", "Drop spoonfuls of the mixture into the oil and fry until golden brown.", "Serve hot or cold with koko.", "This can also be served as a dessert."],
+ "notes":[]
+},
+{
+"dish": "Azi Koliko (Fried yam with eggs)",
+ "category": "breakfast",
+ "people": "For 3 people",
+ "ingredients": ["2 peppers", "4 small spring onions", "1 tsp. salt", "6 small slices of cooked yam", "1/2 cup of cooking oil", "2 eggs"],
+ "method": ["Grind peppers, salt and onions together.", "Beat up eggs well and mix with ground ingredients.", "Add enough salt to taste.", "Trim cooked yams into rounds or triangles.", "Dip a slice of yam into the egg mixture.", "Heat some oil in a frying pan and fry the yam on low fire.", "Turn over and fry the other side.", "Fry all the yam slices dipped in the egg mixture and if there is any egg mixture left, pour it around the last piece of yam.", "Serve hot."],
+ "notes":[]
+}
+]
